@@ -1,0 +1,12 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2b293d;
+    height: 20%;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    border: 2px solid black;
+}
